@@ -89,27 +89,27 @@ These insights can help sellers and businesses understand pricing, competition, 
 
 ### Product Category Analysis
 
-![Top Product Categories](images/product.png)
+![Top Product Categories](./images/product.png)
 
 ### Price Segment Distribution
 
-![Price Category Distribution](images/price-category-distribution.png)
+![Price Category Distribution](./images/price-category-distribution.png)
 
 ### Rating Distribution
 
-![Rating Distribution](images/rating_distribution.png)
+![Rating Distribution](./images/rating_distribution.png)
 
 ### Discount Analysis
 
-![Discount Analysis](images/discount-analysis.png)
+![Discount Analysis](./images/discount-analysis.png)
 
 ### Customer Rating Activity
 
-![Customer Rating Activity](images/customer-rating-activity.png)
+![Customer Rating Activity](./images/customer-rating-activity.png)
 
 ### Correlation Analysis
 
-![Correlation Heatmap](images/correlation-heatmap.png)
+![Correlation Heatmap](./images/correlation-heatmap.png)
 
 ---
 
