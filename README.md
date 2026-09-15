@@ -85,6 +85,34 @@ These insights can help sellers and businesses understand pricing, competition, 
 
 ---
 
+## 📊 Project Visualizations
+
+### Product Category Analysis
+
+![Top Product Categories](images/product.png)
+
+### Price Segment Distribution
+
+![Price Category Distribution](images/price-category-distribution.png)
+
+### Rating Distribution
+
+![Rating Distribution](images/rating_distribution.png)
+
+### Discount Analysis
+
+![Discount Analysis](images/discount-analysis.png)
+
+### Customer Rating Activity
+
+![Customer Rating Activity](images/customer-rating-activity.png)
+
+### Correlation Analysis
+
+![Correlation Heatmap](images/correlation-heatmap.png)
+
+---
+
 ## 📈 Visualizations
 
 Some of the visualizations included in the project:
